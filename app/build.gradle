@@ -3,7 +3,7 @@ apply plugin: 'com.android.application'
 android {
     compileSdkVersion 28
     defaultConfig {
-        applicationId "com.example.lh168.myapplication"
+        applicationId "com.example.lh168.IPLocator"
         minSdkVersion 19
         targetSdkVersion 28
         versionCode 1
