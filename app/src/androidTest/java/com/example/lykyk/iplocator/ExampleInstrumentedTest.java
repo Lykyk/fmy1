@@ -1,4 +1,4 @@
-package com.example.lh168.IPLocator;
+package com.example.lykyk.iplocator;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.example.lh168.myapplication", appContext.getPackageName());
+        assertEquals("com.example.lykyk.iplocator", appContext.getPackageName());
     }
 }
